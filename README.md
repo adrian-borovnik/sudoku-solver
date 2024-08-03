@@ -1,3 +1,3 @@
 # Sudoku solver
 
-A simple sudoku solver using a backtraking alghorithm written in go.
+A simple sudoku solver using a backtracking algorithm written in go.
